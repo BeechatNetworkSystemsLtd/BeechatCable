@@ -17,9 +17,8 @@ Repository content:
 Images:
 -------------------
 
-![image](https://github.com/BeechatNetworkSystemsLtd/BeechatCable/raw/main/beechatcable.jpg)
-![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatClip/main/render_2.png)
-![image3](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatClip/main/render_5.png)
+![image](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatCable/main/beechat_cable.png)
+![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatCable/main/beechat_cable2.png)
 
 
 PCB USB-C FEMALE features
@@ -28,6 +27,7 @@ PCB USB-C FEMALE features
 * **DC resistors:** 5.1 k
 * **4-position FFC cable connection pins. (x2)**
 * **USB C male receptable connector** 5V (USB)
+![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatCable/main/beechat_cable2.png)
 
 
 PCB USB C MALE features
@@ -36,6 +36,8 @@ PCB USB C MALE features
 * **DC resistor:** 10k
 * **4-position FFC cable connection pins. (x1)**
 * **USB C Female plug Slim.**
+![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatCable/main/beechat_cable2.png)
+
 
 Repository contents:
 -------------------
